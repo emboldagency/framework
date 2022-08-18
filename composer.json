@@ -42,5 +42,7 @@
     },
     "scripts": {
         "fix-cs": ["prettier **/*.php --write"]
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false
 }
