@@ -6,6 +6,12 @@
         "laravel",
         "wordpress"
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/emboldagency/contracts"
+        }
+    ],
     "license": "MIT",
     "homepage": "http://laravel.com",
     "support": {
@@ -21,7 +27,7 @@
     "require": {
         "php": "^8.0.2",
         "laravel/framework": "^9.0",
-        "laraish/contracts": "^2.0",
+        "laraish/contracts": "dev-master",
         "laraish/support": "^2.0",
         "laraish/pagination": "^2.0",
         "laraish/options": "^2.0"
