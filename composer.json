@@ -19,8 +19,8 @@
         }
     ],
     "require": {
-        "php": "^7.3",
-        "laravel/framework": "^8.0",
+        "php": "^8.0.2",
+        "laravel/framework": "^9.0",
         "laraish/contracts": "^2.0",
         "laraish/support": "^2.0",
         "laraish/pagination": "^2.0",
